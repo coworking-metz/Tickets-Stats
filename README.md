@@ -9,5 +9,5 @@ cp .env.sample .env
 Ajouter l’URL des statistiques dans le fichier `.env`
 
 ```bash
-yarn build && yarn start
+yarn && yarn build && yarn start
 ```
